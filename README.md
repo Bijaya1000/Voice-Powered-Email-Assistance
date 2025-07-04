@@ -17,7 +17,7 @@ Voice-Based Email for Visually Challenged People is a project aimed at developin
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/Voice-Based-email-for-Visually-Challenged-people.git
+   git clone https://github.com/Bijaya1000/Voice-Powered-Email-Assistance.git
 
 1. Install the required dependencies:
    
@@ -54,8 +54,8 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Contact
 For any questions or inquiries, please reach out to:
 
-Your Name
-Email: itssatyam.345@gmail.com
+Bijaya Kumar Mati
+Email: matibijaya@gmail.com
 
 ## ABSTRACT: 
 <p align="justify">One of the most common forms of communication among people is Email. A lot of confidential and urgent information is exchanged over emails. There are about 253 million visually impaired people worldwide. These visually impaired people are facing a problem with communication. Since technology is growing day by day, these visually challenged people feel that they are more challenged.</p>
